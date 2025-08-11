@@ -3,6 +3,8 @@
 #### About:
 The main idea behind this sheet is easy access to common character information and auto calculation & population of fields. To see a demo, [click here](https://lckynmbrsvn.github.io/DnD-5e-Character-Sheet/) 
 
+[click here](https://VMGelo.github.io/DnD-5e-FolhaPersonagem/) 
+
 Currently, this is meant to be an offline character sheet for the game of Dungeons and Dragons. It has been rewritten to have a modern responsive layout in w3's lightweight css.
 
 The only part that relies on connecting online is the use of FontAwesome, which is only used in the drop down menu. It utilizes jQuery to load a character from a JSON file and automatically fill out most of the sheet based on your attributes. 
